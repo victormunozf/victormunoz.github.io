@@ -139,7 +139,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong>📊 Data Engineering & Analytics</strong><br>
-      • Programación avanzada en entornos R/Python (Shiny, Positron)<br>
+      • Programación avanzada en entornos R y Python (Shiny Architecture, Streamlit)<br>
       • Diseño de bases de datos relacionales SQL (PostgreSQL, Supabase)<br>
       • Pipelines robustos de extracción de datos (ETL) e integración de IA<br>
       • Cuadros de mando analíticos e inteligencia de negocios predictiva
@@ -158,27 +158,33 @@
 
 ### 🚀 Ecosistema Digital & Aplicaciones en la Nube
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td width="25%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 10px;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Page"><br>
-      <strong>PORTAFOLIO</strong><br>
-      <a href="https://github.com/victormunozf?tab=repositories" target="_blank"><b>[ Explorar ]</b></a>
+    <td width="50%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 12px;">
+      <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Page"><br>
+      <strong>💻 PORTAFOLIO DE REPOSITORIOS</strong><br>
+      <p style="font-size: 10pt; color: #495057;">Códigos fuente orientados a analítica, modelos predictivos de ingeniería y flujos automatizados.</p>
+      <a href="https://github.com/victormunozf?tab=repositories" target="_blank"><b>[ 🌐 Explorar victormunoz.github.io ]</b></a>
     </td>
-    <td width="25%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 10px;">
+    <td width="50%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 12px;">
+      <img src="https://img.shields.io/badge/Shiny_Apps-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Shiny"><br>
+      <strong>📊 PLATAFORMA DE PRESUPUESTOS v1</strong><br>
+      <p style="font-size: 10pt; color: #495057;">Aplicación cloud en producción diseñada para la automatización financiera y análisis de costos en proyectos.</p>
+      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><b>[ 🚀 Abrir App en Producción ]</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 12px; margin-top: 10px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
-      <strong>VIGAS PRO</strong><br>
-      <a href="https://vigaspro.streamlit.app/" target="_blank"><b>[ Abrir App ]</b></a>
+      <strong>📐 VIGAS PRO (Streamlit)</strong><br>
+      <p style="font-size: 10pt; color: #495057;">Aplicación web en Python orientada al análisis estructural y cálculo de vigas hiperestáticas.</p>
+      <a href="https://vigaspro.streamlit.app/" target="_blank"><b>[ 🌐 Abrir VigasPro ]</b></a>
     </td>
-    <td width="25%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 10px;">
+    <td width="50%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 12px; margin-top: 10px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
-      <strong>PÓRTICOS PRO</strong><br>
-      <a href="https://porticospro.streamlit.app/" target="_blank"><b>[ Abrir App ]</b></a>
-    </td>
-    <td width="25%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 10px;">
-      <img src="https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Shiny"><br>
-      <strong>PRESUPUESTOS</strong><br>
-      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><b>[ Abrir App ]</b></a>
+      <strong>🏗️ PÓRTICOS PRO (Streamlit)</strong><br>
+      <p style="font-size: 10pt; color: #495057;">Plataforma de cálculo estructural automatizado para análisis matricial de pórticos.</p>
+      <a href="https://porticospro.streamlit.app/" target="_blank"><b>[ 🌐 Abrir PórticosPro ]</b></a>
     </td>
   </tr>
 </table>
@@ -188,22 +194,42 @@
 ### 📰 Columnas de Prensa & Presencia en Medios
 
 #### 📰 El Mercurio — Ediciones Especiales
-* **"¿Cuál es el tipo de calefacción ideal para cada hogar?" (28 de Abril, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_28_04_2023.pdf)  
-* **"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_23_03_2023.pdf)  
 
-#### 📺 Reportajes Audiovisuales
-* **📺 TVN / Chilevisión:** Panelista y colaborador técnico en estrategias de ventilación, eficiencia térmica y análisis normativo. [🔗 Ver Clip YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
-* **📺 Canal @ProfeVictorProject:** Transferencia tecnológica de automatización presupuestaria y BIM. [🔗 Visitar Canal](https://youtube.com/@ProfeVictorProject)
+* **"¿Cuál es el tipo de calefacción ideal para cada hogar?" (28 de Abril, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_28_04_2023.pdf)  
+  Análisis comparativo desarrollado en colaboración con el Centro Tecnológico Kipus. Se aborda desde una perspectiva técnica la relevancia de evaluar la envolvente térmica estructural de las viviendas como el factor crítico en la disipación de energía hacia el exterior. Además, incluye un modelo matemático y económico de consumo basado en un recinto estándar de 60 m² bajo regímenes de uso de 10 horas diarias, permitiendo cuantificar el impacto y costo real de la matriz energética urbana entre gas licuado, kerosene y electricidad.
+
+* **"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_23_03_2023.pdf)  
+  Columna especializada enfocada en los estrictos protocolos normativos establecidos por el Ministerio de Salud y las Seremis correspondientes (considerando dictámenes como el DS N° 656/2000, DS N° 17/2008, DS N° 148/2003 y DS N° 594/1999). En el texto se expone la clasificación técnica del mineral en elementos friables y no friables, las directrices de mitigación para evitar la volatilización de fibras microscópicas en el aire mediante técnicas de encapsulamiento polimérico líquido, y la estructuración rigurosa de los planes de trabajo obligatorios que guían las faenas de desarme, desmantelamiento y disposición final segura en vertederos autorizados.
+
+#### 📺 Reportajes Audiovisuales & Paneles Técnicos (Televisión Abierta)
+
+* **📺 TVN — Buenos Días a Todos (2025):** Panelista técnico en vivo sobre estrategias avanzadas de ventilación residencial cruzada, mitigación de radiación mediante barreras exteriores y dinámicas físicas de renovación del aire en olas de calor. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
+* **📺 Chilevisión - Reportaje Central (2024):** Modelamiento matemático en terreno evaluando la eficiencia y costos mensuales de sistemas de calefacción (Parafina, Gas, Inverter) para superficies estándar. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
+* **📺 TVN — Análisis Termográfico (2023):** Demostración práctica utilizando cámaras de termografía infrarroja para la detección *in situ* de puentes térmicos estructurales e infiltraciones de aire. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=MXVUztPWKu4)
+* **📺 TVN — Evolución Normativa O.G.U.C. (2023):** Análisis del impacto del quiebre normativo del año 2000 en Chile y las leyes físicas de traspaso térmico estacionario en mamposterías. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=yOcBC42jCj8)
+* **📺 Chilevisión - Reportaje Central (2022):** Proyecciones macroeconómicas de tarifas eléctricas residenciales y optimización de mantenimiento mecánico en sistemas calóricos residenciales. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
+
+#### 🏫 Cooperación Internacional & Proyectos COIL Global
+
+* **🌐 Proyecto Internacional COIL (Colombia — Chile) (2023):** Co-diseñador y director de la articulación global académica entre la Facultad de Ingeniería Civil en Colombia (Cátedra de Pavimentos) y las escuelas de Ingeniería y Edificación en Chile (Duoc UC / PUC) enfocado en resolución colaborativa de fallas viales regionales. [🔗 Ver Video Informativo](https://www.youtube.com/watch?v=eBvSbDMdA1Y)
+
+#### 📢 Divulgación Técnica & Comunidad Académica
+
+* **🎥 Canal @ProfeVictorProject:** Plataforma en YouTube de transferencia tecnológica masiva centrada en la automatización presupuestaria mediante R/Shiny, análisis de estructuras, metodologías instruccionales y herramientas BIM. [🔗 Visitar Canal Académico](https://youtube.com/@ProfeVictorProject)
 
 ---
 
-### 📄 Publicaciones Académicas & Bibliografía
+### 📄 Publicaciones Académicas, Working Papers & Bibliografía
 
-* **Muñoz-Flores, V.** (2023). *Estrategias de gestión y optimización de infraestructura urbana y eficiencia energética*. Publicado en CAED [🔗 Descargar Documento](https://caed.cl/wp-content/uploads/2023/12/3-Victor-Munoz_PUBLICADO.pdf)
-* **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024) — *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.*
-* **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023) — *Working Paper.*
-* **Diseño Estructural de Pavimentos** (2021) — *V. Muñoz-Flores.*
-* **Diseño de Pilares Estructurales según Código ACI318-14** (2020) — *V. Muñoz-Flores.*
+* **Muñoz-Flores, V.** (2023). *Estrategias de gestión y optimización de infraestructura urbana y eficiencia energética*. Publicado en CAED. [🔗 Ver Documento Oficial](https://caed.cl/wp-content/uploads/2023/12/3-Victor-Munoz_PUBLICADO.pdf)
+* **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024)  
+  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 *Proyecto de Innovación:* Diseño de un modelo hidráulico e instruccional de captación y tratamiento de aguas grises para mitigar la escasez hídrica urbana en infraestructuras educacionales.
+* **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023)  
+  ✍️ *V. Muñoz-Flores, F. Olivares, et al.* | Working Paper | [🔗 Descargar Documento Técnico](https://fco-olivares.github.io/wp/cs_heaters.pdf)
+* **Diseño Estructural de Pavimentos** (2021) — *V. Muñoz-Flores.* | [🔗 Ver en ResearchGate](https://www.researchgate.net/)
+* **Diseño de Pilares Estructurales según Código ACI318-14 en entornos Técnico Profesionales** (2020) — *V. Muñoz-Flores.* | [🔗 Ver en ResearchGate](https://www.researchgate.net/)
+* **Rol Docente en la Retención de Alumnos mediante Estrategias de Aprendizaje Activo** (2019) — *Universidad del Desarrollo.*
+* **Diseño de un Modelo de Control y Gestión para el Plan de Reconstrucción del MINVU** (2014) — *Universidad Central de Chile.*
 
 ---
 
