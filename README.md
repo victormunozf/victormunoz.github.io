@@ -221,9 +221,8 @@
 
 ### 📄 Publicaciones Académicas, Working Papers & Bibliografía
 
-* **Muñoz-Flores, V.** (2023). *Estrategias de gestión y optimización de infraestructura urbana y eficiencia energética*. Publicado en CAED. [🔗 Ver Documento Oficial](https://caed.cl/wp-content/uploads/2023/12/3-Victor-Munoz_PUBLICADO.pdf)
 * **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024)  
-  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 *Proyecto de Innovación:* Diseño de un modelo hidráulico e instruccional de captación y tratamiento de aguas grises para mitigar la escasez hídrica urbana en infraestructuras educacionales.
+  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 *Proyecto de Innovación:* Diseño de un modelo hidráulico e instruccional de captación y tratamiento de aguas grises para mitigar la escasez hídrica urbana en infraestructuras educacionales. (https://caed.cl/wp-content/uploads/2023/12/3-Victor-Munoz_PUBLICADO.pdf)
 * **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023)  
   ✍️ *V. Muñoz-Flores, F. Olivares, et al.* | Working Paper | [🔗 Descargar Documento Técnico](https://fco-olivares.github.io/wp/cs_heaters.pdf)
 * **Diseño Estructural de Pavimentos** (2021) — *V. Muñoz-Flores.* | [🔗 Ver en ResearchGate](https://www.researchgate.net/)
