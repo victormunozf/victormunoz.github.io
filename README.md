@@ -130,6 +130,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Microsoft_Project-107C41?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="MS Project">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 </div>
 
 <br>
@@ -138,44 +139,46 @@
   <tr>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong>📊 Data Engineering & Analytics</strong><br>
-      • Programación avanzada (R/Shiny, Python)<br>
-      • Diseño de bases de datos SQL (PostgreSQL, Supabase)<br>
-      • Pipelines robustos de extracción de datos (ETL)<br>
-      • Inteligencia de negocios predictiva
+      • Programación avanzada en entornos R/Python (Shiny, Positron)<br>
+      • Diseño de bases de datos relacionales SQL (PostgreSQL, Supabase)<br>
+      • Pipelines robustos de extracción de datos (ETL) e integración de IA<br>
+      • Cuadros de mando analíticos e inteligencia de negocios predictiva
     </td>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong>🏗️ Infraestructura, Presupuestos & Control MOP</strong><br>
-      • Planes de Aseguramiento de Calidad (PAC)<br>
-      • Gestión, cubicación y control de licitaciones<br>
-      • Planificación avanzada mediante MS Project<br>
-      • Modelamiento BIM y cálculo estructural
+      • Confección e inspección de Planes de Aseguramiento de Calidad (PAC)<br>
+      • Gestión, cubicación, presupuestos complejos y control de licitaciones<br>
+      • Planificación y control de tiempos avanzado mediante MS Project<br>
+      • Modelamiento BIM de Infraestructuras Viales e Instalador Eléctrico SEC
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Ecosistema Digital & Aplicaciones Cloud
+### 🚀 Ecosistema Digital & Aplicaciones en la Nube
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="33%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 15px;">
-      <strong>📐 VIGAS PRO</strong><br>
-      <p style="font-size: 10pt; color: #495057;">Análisis y cálculo de vigas hiperestáticas en la nube.</p>
-      <br>
-      <a href="https://vigaspro.streamlit.app/" target="_blank"><b>[ 🌐 Abrir App ]</b></a>
+    <td width="25%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 10px;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Page"><br>
+      <strong>PORTAFOLIO</strong><br>
+      <a href="https://github.com/victormunozf?tab=repositories" target="_blank"><b>[ Explorar ]</b></a>
     </td>
-    <td width="34%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 15px;">
-      <strong>🏗️ PÓRTICOS PRO</strong><br>
-      <p style="font-size: 10pt; color: #495057;">Cálculo estructural de pórticos mediante Python.</p>
-      <br>
-      <a href="https://porticospro.streamlit.app/" target="_blank"><b>[ 🌐 Abrir App ]</b></a>
+    <td width="25%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
+      <strong>VIGAS PRO</strong><br>
+      <a href="https://vigaspro.streamlit.app/" target="_blank"><b>[ Abrir App ]</b></a>
     </td>
-    <td width="33%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 15px;">
-      <strong>📊 PRESUPUESTOS v1</strong><br>
-      <p style="font-size: 10pt; color: #495057;">Automatización financiera y análisis de costos.</p>
-      <br>
-      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><b>[ 🚀 Abrir App ]</b></a>
+    <td width="25%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
+      <strong>PÓRTICOS PRO</strong><br>
+      <a href="https://porticospro.streamlit.app/" target="_blank"><b>[ Abrir App ]</b></a>
+    </td>
+    <td width="25%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 10px;">
+      <img src="https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Shiny"><br>
+      <strong>PRESUPUESTOS</strong><br>
+      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><b>[ Abrir App ]</b></a>
     </td>
   </tr>
 </table>
@@ -185,16 +188,16 @@
 ### 📰 Columnas de Prensa & Presencia en Medios
 
 #### 📰 El Mercurio — Ediciones Especiales
-
 * **"¿Cuál es el tipo de calefacción ideal para cada hogar?" (28 de Abril, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_28_04_2023.pdf)  
 * **"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_23_03_2023.pdf)  
 
-#### 📺 Reportajes Audiovisuales & Paneles Técnicos
-* **📺 TVN / Chilevisión:** Panelista y colaborador técnico en temas de eficiencia térmica y normativa vigente. [🔗 Ver Canal @ProfeVictorProject](https://youtube.com/@ProfeVictorProject)
+#### 📺 Reportajes Audiovisuales
+* **📺 TVN / Chilevisión:** Panelista y colaborador técnico en estrategias de ventilación, eficiencia térmica y análisis normativo. [🔗 Ver Clip YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
+* **📺 Canal @ProfeVictorProject:** Transferencia tecnológica de automatización presupuestaria y BIM. [🔗 Visitar Canal](https://youtube.com/@ProfeVictorProject)
 
 ---
 
-### 📄 Publicaciones & Bibliografía Técnica
+### 📄 Publicaciones Académicas & Bibliografía
 
 * **Muñoz-Flores, V.** (2023). *Estrategias de gestión y optimización de infraestructura urbana y eficiencia energética*. Publicado en CAED [🔗 Descargar Documento](https://caed.cl/wp-content/uploads/2023/12/3-Victor-Munoz_PUBLICADO.pdf)
 * **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024) — *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.*
