@@ -126,10 +126,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Microsoft_Project-107C41?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="MS Project">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 </div>
 
 <br>
@@ -138,40 +138,44 @@
   <tr>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong>📊 Data Engineering & Analytics</strong><br>
-      • Programación avanzada en entornos R (Shiny Architecture, Positron)<br>
-      • Diseño de bases de datos relacionales SQL (PostgreSQL, Supabase)<br>
-      • Pipelines robustos de extracción de datos (ETL) e integración de IA<br>
-      • Cuadros de mando analíticos e inteligencia de negocios predictiva
+      • Programación avanzada (R/Shiny, Python)<br>
+      • Diseño de bases de datos SQL (PostgreSQL, Supabase)<br>
+      • Pipelines robustos de extracción de datos (ETL)<br>
+      • Inteligencia de negocios predictiva
     </td>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong>🏗️ Infraestructura, Presupuestos & Control MOP</strong><br>
-      • Confección e inspección de Planes de Aseguramiento de Calidad (PAC)<br>
-      • Gestión, cubicación, presupuestos complejos y control de licitaciones<br>
-      • Planificación y control de tiempos avanzado mediante MS Project<br>
-      • Modelamiento BIM de Infraestructuras Viales e Instalador Eléctrico SEC
+      • Planes de Aseguramiento de Calidad (PAC)<br>
+      • Gestión, cubicación y control de licitaciones<br>
+      • Planificación avanzada mediante MS Project<br>
+      • Modelamiento BIM y cálculo estructural
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Ecosistema Digital & Aplicaciones en la Nube
+### 🚀 Ecosistema Digital & Aplicaciones Cloud
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Page"><br>
-      <strong>💻 PORTAFOLIO DE REPOSITORIOS</strong><br>
-      <p style="font-size: 11pt; color: #495057;">Códigos fuente orientados a analítica, modelos predictivos de ingeniería y flujos automatizados.</p>
+    <td width="33%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 15px;">
+      <strong>📐 VIGAS PRO</strong><br>
+      <p style="font-size: 10pt; color: #495057;">Análisis y cálculo de vigas hiperestáticas en la nube.</p>
       <br>
-      <a href="https://github.com/victormunozf?tab=repositories" target="_blank"><b>[ 🌐 Explorar victormunoz.github.io ]</b></a>
+      <a href="https://vigaspro.streamlit.app/" target="_blank"><b>[ 🌐 Abrir App ]</b></a>
     </td>
-    <td width="50%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/Shiny_Apps-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Shiny"><br>
-      <strong>📊 PLATAFORMA DE PRESUPUESTOS v1</strong><br>
-      <p style="font-size: 11pt; color: #495057;">Aplicación cloud en producción diseñada para la automatización financiera y análisis de costos en proyectos.</p>
+    <td width="34%" align="center" valign="top" style="background-color: #e9ecef; border-radius: 8px; padding: 15px;">
+      <strong>🏗️ PÓRTICOS PRO</strong><br>
+      <p style="font-size: 10pt; color: #495057;">Cálculo estructural de pórticos mediante Python.</p>
       <br>
-      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><b>[ 🚀 Abrir App en Producción ]</b></a>
+      <a href="https://porticospro.streamlit.app/" target="_blank"><b>[ 🌐 Abrir App ]</b></a>
+    </td>
+    <td width="33%" align="center" valign="top" style="background-color: #f1f3f5; border-radius: 8px; padding: 15px;">
+      <strong>📊 PRESUPUESTOS v1</strong><br>
+      <p style="font-size: 10pt; color: #495057;">Automatización financiera y análisis de costos.</p>
+      <br>
+      <a href="https://victormunoz.shinyapps.io/presupuestos_v1" target="_blank"><b>[ 🚀 Abrir App ]</b></a>
     </td>
   </tr>
 </table>
@@ -183,39 +187,20 @@
 #### 📰 El Mercurio — Ediciones Especiales
 
 * **"¿Cuál es el tipo de calefacción ideal para cada hogar?" (28 de Abril, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_28_04_2023.pdf)  
-  Análisis comparativo desarrollado en colaboración con el Centro Tecnológico Kipus. Se aborda desde una perspectiva técnica la relevancia de evaluar la envolvente térmica estructural de las viviendas como el factor crítico en la disipación de energía hacia el exterior. Además, incluye un modelo matemático y económico de consumo basado en un recinto estándar de 60 m² bajo regímenes de uso de 10 horas diarias, permitiendo cuantificar el impacto y costo real de la matriz energética urbana entre gas licuado, kerosene y electricidad.
-
 * **"La importancia de una adecuada gestión, retiro y control del asbesto" (23 de Marzo, 2023)** [🔗 Leer Columna Completa (PDF)](./emol_23_03_2023.pdf)  
-  Columna especializada enfocada en los estrictos protocolos normativos establecidos por el Ministerio de Salud y las Seremis correspondientes (considerando dictámenes como el DS N° 656/2000, DS N° 17/2008, DS N° 148/2003 y DS N° 594/1999). En el texto se expone la clasificación técnica del mineral en elementos friables y no friables, las directrices de mitigación para evitar la volatilización de fibras microscópicas en el aire mediante técnicas de encapsulamiento polimérico líquido, y la estructuración rigurosa de los planes de trabajo obligatorios que guían las faenas de desarme, desmantelamiento y disposición final segura en vertederos autorizados.
 
-#### 📺 Reportajes Audiovisuales & Paneles Técnicos (Televisión Abierta)
-
-* **📺 TVN — Buenos Días a Todos (2025):** Panelista técnico en vivo sobre estrategias avanzadas de ventilación residencial cruzada, mitigación de radiación mediante barreras exteriores y dinámicas físicas de renovación del aire en olas de calor. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=bnEzd8a5mc4)
-* **📺 Chilevisión - Reportaje Central (2024):** Modelamiento matemático en terreno evaluando la eficiencia y costos mensuales de sistemas de calefacción (Parafina, Gas, Inverter) para superficies estándar. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=Iu4cRuuGRis)
-* **📺 TVN — Análisis Termográfico (2023):** Demostración práctica utilizando cámaras de termografía infrarroja para la detección *in situ* de puentes térmicos estructurales e infiltraciones de aire. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=MXVUztPWKu4)
-* **📺 TVN — Evolución Normativa O.G.U.C. (2023):** Análisis del impacto del quiebre normativo del año 2000 en Chile y las leyes físicas de traspaso térmico estacionario en mamposterías. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=yOcBC42jCj8)
-* **📺 Chilevisión - Reportaje Central (2022):** Proyecciones macroeconómicas de tarifas eléctricas residenciales y optimización de mantenimiento mecánico en sistemas calóricos residenciales. [🔗 Ver Clip en YouTube](https://www.youtube.com/watch?v=foFLUfMg-G4)
-
-#### 🏫 Cooperación Internacional & Proyectos COIL Global
-
-* **🌐 Proyecto Internacional COIL (Colombia — Chile) (2023):** Co-diseñador y director de la articulación global académica entre la Facultad de Ingeniería Civil en Colombia (Cátedra de Pavimentos) y las escuelas de Ingeniería y Edificación en Chile (Duoc UC / PUC) enfocado en resolución colaborativa de fallas viales regionales. [🔗 Ver Video Informativo](https://www.youtube.com/watch?v=eBvSbDMdA1Y)
-
-#### 📢 Divulgación Técnica & Comunidad Académica
-
-* **🎥 Canal @ProfeVictorProject:** Plataforma en YouTube de transferencia tecnológica masiva centrada en la automatización presupuestaria mediante R/Shiny, análisis de estructuras, metodologías instruccionales y herramientas BIM. [🔗 Visitar Canal Académico](https://youtube.com/@ProfeVictorProject)
+#### 📺 Reportajes Audiovisuales & Paneles Técnicos
+* **📺 TVN / Chilevisión:** Panelista y colaborador técnico en temas de eficiencia térmica y normativa vigente. [🔗 Ver Canal @ProfeVictorProject](https://youtube.com/@ProfeVictorProject)
 
 ---
 
-### 📄 Publicaciones Académicas & Working Papers
+### 📄 Publicaciones & Bibliografía Técnica
 
-* **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024)  
-  ✍️ *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.* 📋 **Proyecto de Innovación:** Diseño de un modelo hidráulico e instruccional de captación y tratamiento de aguas grises para mitigar la escasez hídrica urbana en infraestructuras educacionales.
-* **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023)  
-  ✍️ *V. Muñoz-Flores, F. Olivares, et al.* | Working Paper | [🔗 Descargar Documento Técnico](https://fco-olivares.github.io/wp/cs_heaters.pdf)
-* **Diseño Estructural de Pavimentos** (2021) — *V. Muñoz-Flores.* | [🔗 Ver en ResearchGate](https://www.researchgate.net/)
-* **Diseño de Pilares Estructurales según Código ACI318-14 en entornos Técnico Profesionales** (2020) — *V. Muñoz-Flores.* | [🔗 Ver en ResearchGate](https://www.researchgate.net/)
-* **Rol Docente en la Retención de Alumnos mediante Estrategias de Aprendizaje Activo** (2019) — *Universidad del Desarrollo.*
-* **Diseño de un Modelo de Control y Gestión para el Plan de Reconstrucción del MINVU** (2014) — *Universidad Central de Chile.*
+* **Muñoz-Flores, V.** (2023). *Estrategias de gestión y optimización de infraestructura urbana y eficiencia energética*. Publicado en CAED [🔗 Descargar Documento](https://caed.cl/wp-content/uploads/2023/12/3-Victor-Munoz_PUBLICADO.pdf)
+* **Uso sustentable de aguas grises en edificio sede Alameda DUOC UC** (2024) — *Víctor Muñoz-Flores, Elizabeth Natividad Saenz Chavez.*
+* **Lessons Learned from Chile’s Wood-Burning Heaters Replacement Program** (2023) — *Working Paper.*
+* **Diseño Estructural de Pavimentos** (2021) — *V. Muñoz-Flores.*
+* **Diseño de Pilares Estructurales según Código ACI318-14** (2020) — *V. Muñoz-Flores.*
 
 ---
 
